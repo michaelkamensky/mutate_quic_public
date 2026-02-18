@@ -1,0 +1,28 @@
+{
+  "domain_counts": {
+    "google.com": 1621
+  },
+  "mutation_counts": {
+    "Version Spoofing": 507,
+    "Padding SCID": 100,
+    "0-RTT Injection": 100,
+    "Header Flags Flip": 400,
+    "Length Tamper": 114,
+    "Precursor 0-RTT \u2192 Initial": 100,
+    "Precursor Handshake \u2192 Initial": 100,
+    "Precursor Retry \u2192 Initial": 100,
+    "Precursor Version Negotiation \u2192 Initial": 100
+  },
+  "mutation_percentages": {
+    "Version Spoofing": 31.276989512646512,
+    "Padding SCID": 6.169031462060456,
+    "0-RTT Injection": 6.169031462060456,
+    "Header Flags Flip": 24.676125848241824,
+    "Length Tamper": 7.03269586674892,
+    "Precursor 0-RTT \u2192 Initial": 6.169031462060456,
+    "Precursor Handshake \u2192 Initial": 6.169031462060456,
+    "Precursor Retry \u2192 Initial": 6.169031462060456,
+    "Precursor Version Negotiation \u2192 Initial": 6.169031462060456
+  },
+  "total_mutations": 1621
+}

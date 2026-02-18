@@ -1,0 +1,12 @@
+{
+  "domain_counts": {
+    "google.com": 286
+  },
+  "mutation_counts": {
+    "Length Tamper": 286
+  },
+  "mutation_percentages": {
+    "Length Tamper": 100.0
+  },
+  "total_mutations": 286
+}
